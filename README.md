@@ -1,3 +1,7 @@
+# Java exercise
+
+This repository is an study on Java. To show my studies I make this code that checks if itens in the second array contains in the first one.
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
